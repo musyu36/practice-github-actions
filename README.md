@@ -1,1 +1,1 @@
-# create-react-app-wio-cra
+# practice-github-actions
